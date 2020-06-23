@@ -14,3 +14,4 @@ console.log(array[1]);
 const student = { name: 'Ramakers', firstname: 'Sam', age: 34 };
 console.log('student:', student);
 console.log('student:', 'Sam');
+ 
